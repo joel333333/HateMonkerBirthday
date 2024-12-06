@@ -41,7 +41,7 @@ a {
 }
 #clock-box {
   position: absolute;
-  left: 60px;
+  left: px;
   top: 550px;
   font-size: 28px;
   display: none;
@@ -51,7 +51,7 @@ a {
   text-decoration: none;
 }
 #clock {
-  margin-left: 48px;
+  margin-left: 4px;
 }
 #clock .digit {
   font-size: 64px;
